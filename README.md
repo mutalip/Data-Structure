@@ -12,5 +12,5 @@ We use build-in Python List(which is specifically unordered linked list) to inpl
 
 We create a NODE class to implement linked list in Python, the difference between unordered LL and ordered LL is the implementation of the Add() method.
 
-<p>Unordered Linked List <a herf="http://interactivepython.org/runestone/static/pythonds/BasicDS/TheUnorderedListAbstractDataType.html"> </a> 
-<p>Ordered Linked List <a herf="http://interactivepython.org/runestone/static/pythonds/BasicDS/TheOrderedListAbstractDataType.html"> </a>
+<p><a herf="http://interactivepython.org/runestone/static/pythonds/BasicDS/TheUnorderedListAbstractDataType.html"> Unordered Linked List  </a> 
+<p> <a herf="http://interactivepython.org/runestone/static/pythonds/BasicDS/TheOrderedListAbstractDataType.html"> Ordered Linked List </a>
