@@ -7,8 +7,8 @@ Stacks, queues, deques, and lists are examples of data collections whose items a
 
 We use build-in Python List(which is specifically unordered linked list) to inplement Stack, queue and Deque
 <p> <a href="http://interactivepython.org/runestone/static/pythonds/BasicDS/TheStackAbstractDataType.html">Stack</a> (LIFO, Last In First Out) </p>
-<p > <a href="http://interactivepython.org/runestone/static/pythonds/BasicDS/WhatIsaQueue.html">Queue</a> Queue (FIFO, First In First Out) </p>
-<p > <a href="http://interactivepython.org/runestone/static/pythonds/BasicDS/WhatIsaDeque.html">Deque</a> Deque (Double-ended Queue) </p>
+<p > <a href="http://interactivepython.org/runestone/static/pythonds/BasicDS/WhatIsaQueue.html">Queue</a> (FIFO, First In First Out) </p>
+<p > <a href="http://interactivepython.org/runestone/static/pythonds/BasicDS/WhatIsaDeque.html">Deque</a> (Double-ended Queue) </p>
 
 We create a NODE class to implement linked list in Python, the difference between unordered LL and ordered LL is the implementation of the Add() method.
 
